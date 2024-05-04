@@ -19,4 +19,6 @@
     <string name="zero">0</string>
     <string name="point">.</string>
     <string name="equal">=</string>
+    <string name="send">send</string>
+    <string name="category">Category</string>
 </resources>

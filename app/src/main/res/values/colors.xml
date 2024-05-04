@@ -5,4 +5,7 @@
     <color name="orange">#FF9F0A</color>
     <color name="gray">#333333</color>
     <color name="light_gray">#A5A5A5</color>
+    <color name="pink">#dc366a</color>
+    <color name="dark_blue">#273039</color>
+    <color name="blue">#5c53f9</color>
 </resources>

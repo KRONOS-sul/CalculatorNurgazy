@@ -8,6 +8,21 @@
     android:background="@color/black"
     tools:context=".MainActivity">
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/send_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/send"
+        android:textAllCaps="true"
+        android:textColor="@color/orange"
+        android:textSize="24sp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -184,7 +199,7 @@
                 android:id="@+id/zero_btn"
                 style="@style/Base.ButtonNumber"
                 android:layout_width="172dp"
-                android:paddingStart="32dp"
+                android:paddingHorizontal="32dp"
                 android:text="@string/zero"
                 android:textAlignment="textStart" />
 
