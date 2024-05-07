@@ -3,9 +3,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FF9F0A</color>
+    <color name="dark_orange">#aa4d03</color>
     <color name="gray">#333333</color>
     <color name="light_gray">#A5A5A5</color>
     <color name="pink">#dc366a</color>
     <color name="dark_blue">#273039</color>
+    <color name="sky_blue">#4385f1</color>
     <color name="blue">#5c53f9</color>
+    <color name="purple">#663ffc</color>
+    <color name="green">#54ee44</color>
 </resources>

@@ -21,4 +21,20 @@
     <string name="equal">=</string>
     <string name="send">send</string>
     <string name="category">Category</string>
+    <string name="explore_the_night_life_of_your_city">Explore the night life of your city</string>
+    <string name="free">Free</string>
+    <string name="price">Price💰</string>
+    <string name="participants">Participants</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="next">Next</string>
+    <string name="price_slider">Price</string>
+    <string-array name="spinner_items" >
+        <item>Type</item>
+        <item>Pokushac</item>
+        <item>Popit</item>
+    </string-array>
+    <array name="initial_slider_values">
+        <item>20.0</item>
+        <item>70.0</item>
+    </array>
 </resources>
